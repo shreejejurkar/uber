@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
----
-
 # AutomateHub: CI/CD Blueprint for RideShare Replica with Proactive Monitoring Implementation
 
 ## Introduction:
@@ -72,7 +68,3 @@ In synergy, Jenkins, Terraform, Docker, Kubernetes, Grafana, and Prometheus form
 
 ## Conclusion
 Building an app like Uber with Jenkins has been exciting! 🚀 Jenkins helps smoothly put together Uber’s virtual world, like arranging blocks. It makes sure everything works well, and we’ve added special guards, Grafana and Prometheus, to watch over the app. 🌐 This guide takes you through each step, making sure your Uber Clone is safe and works great, from writing code to making it live. 🛠️💻 Let’s celebrate this success and make your Uber Clone even better!
-=======
-# uber
-my-projects
->>>>>>> 95a3e28e61f2dc7c2a6350874629ce6961831151
